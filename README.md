@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @RealGingerMcFerren
-- 👀 I’m interested in Technology and Coding
-- 🌱 I’m currently learning Node.js and Python
-- 💞️ I’m looking to collaborate on a Virtual Assiatant
-<p><a rel="me" href="https://gravatar.com/tremendouskoalab48e6db864">Gravatar</a></p>
+Working on the world, one repo at a time.
+<p><a rel="me" href="https://gravatar.com/GingerMcFerren2024">Gravatar</a></p>
 
 <!---
 RealGingerMcFerren/RealGingerMcFerren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
